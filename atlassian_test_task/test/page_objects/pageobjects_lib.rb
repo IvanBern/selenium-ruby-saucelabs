@@ -1,0 +1,2 @@
+#Page Objects Library
+require_relative 'Confluence/init_page_objects_confluence'

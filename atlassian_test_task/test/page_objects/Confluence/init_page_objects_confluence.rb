@@ -1,0 +1,5 @@
+#Page Objects Library for Confluence
+require_relative 'confluence_login_page'
+require_relative 'confluence_dashboard_page'
+require_relative 'confluence_page_page'
+require_relative 'confluence_restrictions_menu_page'
